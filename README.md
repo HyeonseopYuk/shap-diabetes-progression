@@ -14,7 +14,7 @@ This repository supplements the study on diabetes (Pre-DM/DM) risk prediction us
 
 * [statistic.R](https://github.com/HyeonseopYuk/dm-risk-xai/blob/main/statistic.R) – Basic descriptive statistics and summary analysis of the dataset.
 
-* [Analysis_code.ipynb](https://github.com/HyeonseopYuk/dm-risk-xai/blob/main/Analysis_code.ipynb) – Model training (LR, RF, XGBoost, LightGBM), evaluation, and SHAP-based explainability.
+* [Analysis_code.ipynb](https://github.com/HyeonseopYuk/dm-risk-xai/blob/main/Analysis_code.ipynb) – Model training (Logistic Regression, Naive Bayes, Random Forest, XGBoost, Extremely Randomized Trees, LightGBM), evaluation, and SHAP-based explainability.
 
 * [Piecewise Regression.ipynb](https://github.com/HyeonseopYuk/dm-risk-xai/blob/main/Piecewise%20Regression.ipynb) – Piecewise linear regression on SHAP values to detect breakpoints.
 
