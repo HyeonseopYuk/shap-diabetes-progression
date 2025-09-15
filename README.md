@@ -1,4 +1,4 @@
-# Assessment of Diabetes Mellitus Classification and Personalized Risk Factor Identification Based on Explainable Artificial Intelligence 
+# Explainable Machine Learning on Repeated Screening Data for Risk-Stratified Diabetes Care: A Dual-Level Interpretability Approach
 
 This repository supplements the study on diabetes (Pre-DM/DM) risk prediction using clinical and health checkup data, with explainable insights from SHAP/XAI and piecewise regression.
 
